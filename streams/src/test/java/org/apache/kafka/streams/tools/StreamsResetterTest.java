@@ -29,7 +29,6 @@ import org.apache.kafka.common.TopicPartition;
 import org.apache.kafka.common.TopicPartitionInfo;
 import org.junit.Before;
 import org.junit.Test;
-
 import java.time.Duration;
 import java.util.Collections;
 import java.util.HashMap;
