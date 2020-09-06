@@ -16,7 +16,6 @@
  */
 
 package kafka.admin
-
 import java.time.{Duration, Instant}
 import java.util.Properties
 
